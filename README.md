@@ -1,5 +1,17 @@
 # ☎️ Mystery Call Box
 
+
+<img src="images/1.png" alt="Screenshot">
+
+## 📅 Project Timeline & Context
+
+- **Event:** FMEE 2025 – **AI & Robotics Club** Open Day
+- **Date:** November 10–11–12, 2025
+
+---
+
+## 💡 Project Overview
+
 An interactive project that merges **modern technology** with a **vintage twist**.  
 When the user places their phone inside the box, it **locks automatically** using a secret code.  
 Beside the box is a **retro 1970s telephone** that rings after the lock is activated.  
@@ -9,7 +21,7 @@ The project’s goal is to create a unique, playful, and suspenseful **visitor e
 
 ---
 
-## 💡 Project Overview
+##  How the challenge Works
 The Mystery Call Box uses two ESP32 units working together:
 
 - 📦 **ESP32 #1 (Inside the Box)**  
